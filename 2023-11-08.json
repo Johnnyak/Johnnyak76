@@ -1,0 +1,26 @@
+{
+  "name": "Brian Casey",
+  "age": 29,
+  "address": {
+    "street": "Hunis Plaza",
+    "city": "Dinmeljoj",
+    "state": "LA",
+    "zip": "93684"
+  },
+  "contact": {
+    "phone": "(786) 750-2530",
+    "servicePhone": "800523222"
+  },
+  "birthday": "1973-03-02T13:02:21.952Z",
+  "ip": "207.197.31.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Beazvi sempiru wak zakkovov wepa ferrejra pihuf mevuf tattifpu li duv kocajaba gon gi ufe mabito. Decludmiz ehivutgil dukroful gu giromsi uhufgib cas renogo roturpaz pimsuci sus ciddo cag zunkav. Kicop uferu wu madna kuwta boowlu odeomi du cik og aj vomo fu ojahot. Ricubgos mupenu ewahono wad lul do goemizu nofedzug ze iziubhoj ligheoha sisju daj gokirul.",
+    "bio": "Ducajeh tergoh gi ge kazislat vo zoc todsipat seiti bu bekla oj jedap wiim. Fafcu mosobpi jaotoje si lev kuaca lizab gijfonju uk sogkop wefo hu gibu uddigu migu ezi foc fubezaaje. Sobja siloc sef hef wop woziwe ukibekvir jikekog umof vujziciz zam ibaw vi okake. Nu dobet jihejzi uc hele af fu lud opji ifko sorhata omo idgud lom juduag posloli. Ca sivude fehaz gam oggo jum tujolid vevugan vavmabuva atule sekezdog olaaguoni gapi vu. Imhosce zonizde jicavu pitipca vuuploh wopbuciz eporapu lazba mitvelo fotdizfo jekejik pevidu adeor zuvotzef."
+  },
+  "apiKey": "bff8338d500eceecf66cfefebc70bf5585207f728ee18f097b5c3cd7ffdaae5e",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
