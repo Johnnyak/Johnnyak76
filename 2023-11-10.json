@@ -1,0 +1,26 @@
+{
+  "name": "Marie Silva",
+  "age": 39,
+  "address": {
+    "street": "Voihi Avenue",
+    "city": "Pevovu",
+    "state": "AK",
+    "zip": "16669"
+  },
+  "contact": {
+    "phone": "(425) 723-6852",
+    "servicePhone": "800694854"
+  },
+  "birthday": "2006-04-23T22:25:33.743Z",
+  "ip": "194.194.203.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Wu jorajuh ze be tab ci ta ohasaze maw ekupihi avleza awo wazken nac vel tesgalor zebug. Zaiwik suk miav cirojev ar habzok zupa boz ca zubi ifefo gop no viof lohab nu keme fo. Solir bolesce uhuupo savkoco sot uvane lah sevehtis za os holmet winfaaca of mivufe tavu jod geopil kepvomef. Le pukmib vaidom nezijeg dukna ite nufad ase ke ladaba lumujas dinhoj utigecuw za kijur tet gujikti. Kaab bueh lo vu bo misimoac ijugi zowomu fo aga lalego ac apeoka haw ezomok obiwiz ro.",
+    "bio": "Zokupum va da zuewe bufifsu woc muheguzu gitlo da emgo cukabik ogafap vez wa hicaos lemueti keda abiji. Hof dohapi hutig es zuf asavivjab zuf ove joh di bi tih waluh. Vo wapohka noag ofu ji bacdej tetzid vuc di ze inofu ivuka opa giszanis ava."
+  },
+  "apiKey": "26e18bd55231e9427baadb49277021df27ff0e8e70768f4ce965b4d93e831888",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
