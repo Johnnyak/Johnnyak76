@@ -1,0 +1,26 @@
+{
+  "name": "Bradley Pena",
+  "age": 42,
+  "address": {
+    "street": "Okonar Park",
+    "city": "Ohotadas",
+    "state": "KS",
+    "zip": "30202"
+  },
+  "contact": {
+    "phone": "(985) 265-1851",
+    "servicePhone": "800373174"
+  },
+  "birthday": "1966-03-22T08:34:25.893Z",
+  "ip": "103.124.50.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Rum vimfo opo itirah so maj tugmu lotedi ju joznod vil tecim eva ozi. Anzom bid wu dukoha vup wuzbintuv fasir lehah hiunjiv za baawere gowaceho momafkip. Muzewihe rib refjibiw kujewov foznaj wo wukjaf do boljihe nuhbavar ziggu leb kipmohvi infur tidvufsej hamsi luw vo.",
+    "bio": "Maurzul lobojil zidbigte duur dof ij so ube ubupa vappe bep obzin akutu. Hiwesa megonet bab mohupadi rumu izijer repmud sezhotciz sonci okobut ahe riatocoz jujo rig. Mited pieda jer um forilud zeve jawuuzi rugdufu cus ih zuhude juwjewfa wipikuuku wiw."
+  },
+  "apiKey": "a43dd3a359be1696f9801df4742fc238195be4077ddff7d293f58b720b3cbf72",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
