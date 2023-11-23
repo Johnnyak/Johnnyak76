@@ -1,0 +1,26 @@
+{
+  "name": "Kevin Curtis",
+  "age": 49,
+  "address": {
+    "street": "Hodti Parkway",
+    "city": "Ciamoma",
+    "state": "NM",
+    "zip": "45892"
+  },
+  "contact": {
+    "phone": "(243) 516-6325",
+    "servicePhone": "800175939"
+  },
+  "birthday": "1995-11-11T19:24:57.916Z",
+  "ip": "122.186.144.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Ago sir kenkoh pet cev cudi ru duralimuh wop dap zoov tor eb efge ubocuna va hojugisa ju. Ras di bec bolev davub vu punellub kufum jidmu aburohvu kiliwet ulo lajmigap reba. Gidicta wodak zefen imur ne seumleh nol lajacbu bauzivo fisasko wu imumifov vogizaro mesezot ki guw moici losegtaj.",
+    "bio": "Zezluhna wake eru pof luetiki ja tiocaem alciknot unfeh of idacujuh kib vus kug gais zi ci. Zet pe haalulef co javvepwe se homme junig lubwad hivmaz katnikbev lison odza. Copadel ifuso kibu ek aju puvgizta ija acojih waw keh jese si ecsoc ik rijil."
+  },
+  "apiKey": "91bfeff7fe2704565f93c483b4e83c62ce7a6ee8821dbb5814d8e1f90a00de5e",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
