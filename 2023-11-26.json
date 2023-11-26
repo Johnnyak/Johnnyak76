@@ -1,0 +1,26 @@
+{
+  "name": "Lucille Alexander",
+  "age": 45,
+  "address": {
+    "street": "Noraha Path",
+    "city": "Kedgiam",
+    "state": "NJ",
+    "zip": "70986"
+  },
+  "contact": {
+    "phone": "(334) 381-3381",
+    "servicePhone": "800738349"
+  },
+  "birthday": "1970-12-19T15:15:06.856Z",
+  "ip": "193.140.199.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Jal poub gipathud ji bulugajad wolalda monajeb ucenaj irkeni deded uwe na. Fe octazod og sat lajo godu ciri mugoguj apeoji ruve ipifak wi gahzapima jutishu hamsegkeg uffuzon ninig panunor. Osubin wa gep siamahe famoc fuzelo ovi huwnit ifi jibti di mecos jactib mi oz.",
+    "bio": "Wala vifuite pizgi logunehi wuomdi cujase if citig jofuh esa one kekeggej badegsu movzogfi. Ah meiko muufnul doar gopera ekize figum nito tu uzumup eja zotaguw polgu fov naczurme no zadati no. Udu asbog jaku muvo li raham zodic omaere punep gabi fug bepahfu mu zedu wum su firve ru."
+  },
+  "apiKey": "541b79e8d2220902bcecb9fd8c6a62c6dbdacb856822f8092f8a7d153858f260",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
