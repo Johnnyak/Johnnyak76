@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Norris",
+  "age": 34,
+  "address": {
+    "street": "Jihzah Junction",
+    "city": "Hosajeeje",
+    "state": "MT",
+    "zip": "54797"
+  },
+  "contact": {
+    "phone": "(451) 724-9056",
+    "servicePhone": "800361856"
+  },
+  "birthday": "1995-12-31T13:16:32.266Z",
+  "ip": "106.112.254.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Boeju pu socauso ban egema piako piafo coserum redu babav erimunna hih rufi hitobuco goc cuswo. Da vutaanu van ohimuvgov itugigoci gutfuf buse nesgoduk fo nu ijurivi puc bialiota. Suhbi lukvan sa wewus owowica ugatahsa ibitaili ija dub horcub iwituk ji rafuk duwe raebilob ibu. Pineduam bosig vanvij seuhe ba okoteuk beb puhut inela rutolvub acwawbim edded ta awuiseadi. Dacula net fajvi sasti he zevfom pu zeed keszet ziikufud za jezija ifoete nusej ozovuf irusov. Cenicu efabav gez ubu zesne cacezle ku umke bi muguulo diaw ke wolju uwo ufu sirit jugu. Konhamaj vadidlem zok sosabi osivi podoviol fir fu tak muevusup renfe som utni.",
+    "bio": "Gaaz tukwopca jez depno ejmail dif hew lidjo vetep matevwo nipwoob uhiurnu varajpa favpi kakna perifil je wagebi. Robbi luzici he wucudo beiwazo pupako tim omesar odze nungonewu guharar keddeja zarefiw. Po mu fo tocaz uguhifso erafivdu udu asosildu atijacsuf gut ficuzej dovzo."
+  },
+  "apiKey": "5a9fee5db6f389417a3b2ec94e372d6c11d893615d8a9bfa1badce6f3e7ff64b",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
