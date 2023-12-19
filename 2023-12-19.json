@@ -1,0 +1,26 @@
+{
+  "name": "Darrell Sandoval",
+  "age": 51,
+  "address": {
+    "street": "Adiki Pike",
+    "city": "Mopwaise",
+    "state": "MS",
+    "zip": "56590"
+  },
+  "contact": {
+    "phone": "(486) 698-9888",
+    "servicePhone": "800355541"
+  },
+  "birthday": "1989-04-23T18:57:38.240Z",
+  "ip": "77.152.130.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Gotuk tuberle vavecin wo uhe uvaraz vedne pefef vug fiwijze mevop we idweac ohamoftu ucejafap. Dacobem lokwi rammuz izacuwve imojo ohalup sifed fa murak po ruboke cijiwpa ehora bij zuse id effunzu nuz. Ju lo az sifo puepni simec risnamel bicakoni zenatgab zaz abozaze wurba wetpuad gu.",
+    "bio": "Deute efficu ewo zepuf ekjadib itujo japsutir woguciren zita zidelaz ke sidiwiag lo. Vugunhiv diska awe cil jierzah fi itibe vomu ehbos jedmij be jikiz mul daju ekihe hupakin. Hacbuk rilde raviz amir etucige tundir puefube julasaca volji itu kirelwe enuve nas mi hufeje limejef."
+  },
+  "apiKey": "4e1065b67afb07eb5eff881f98d39951db71facf6d1ec6cfe04c98f2f44b3633",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
