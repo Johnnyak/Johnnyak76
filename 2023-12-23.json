@@ -1,0 +1,26 @@
+{
+  "name": "Jackson McCoy",
+  "age": 61,
+  "address": {
+    "street": "Witbik Terrace",
+    "city": "Ranseoju",
+    "state": "AZ",
+    "zip": "66267"
+  },
+  "contact": {
+    "phone": "(940) 273-8205",
+    "servicePhone": "800251127"
+  },
+  "birthday": "1991-03-26T03:22:40.490Z",
+  "ip": "155.142.105.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuk uza figce liot nifap boizki zazfuro hurmel za za lun jugpu zuf. Sub etpij telbebpi fe lorub kadaz woli sa vef wula ruhip tutcuf. Poz acvir wat efgutek vohto ri co ag ugiahsil za vopela wi mib mujokpi.",
+    "bio": "Elsuze heolojos avooje puphos owja guarva pi nid zefuj zegvo niz jom nala. Ore hutduj co je cevud iwus lelgutic ge vouc dupi ji walemas. Ic cabiwbo zozo ewpurji bedoh mazoh lepseggop novi gatzubhun boj jitucra ewitezu firno. Wohhipsu waisdaj sumuf baljecef surjiru kegoz jabzeruc recfo sejlaj afka okcod eriemeub mo ti fis. Nu zuhtobu as giz tuif helo efawri zi tarwudjiv sika emumohjok ikfoku biej fav."
+  },
+  "apiKey": "e7241e0f8670f8dad8eeacd00af26edb1fe942b53ea47f672c8a6d7402f2c0ad",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
