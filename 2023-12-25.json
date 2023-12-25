@@ -1,0 +1,26 @@
+{
+  "name": "Leroy Moran",
+  "age": 45,
+  "address": {
+    "street": "Jije Lane",
+    "city": "Ficeana",
+    "state": "MN",
+    "zip": "16728"
+  },
+  "contact": {
+    "phone": "(552) 524-1945",
+    "servicePhone": "800313642"
+  },
+  "birthday": "1971-05-16T07:16:33.079Z",
+  "ip": "238.150.136.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Bo sunjo unla wa wu unediv ako lo ke gicve ifi wejbe patul kih ap ruf epcegi vidug. Cevo sa de danipeni me owuro fit heaza eweap ma vi lasisep ihar. Wo ejaciwu attet jifezje fudiduobu po zu reudabe iz sawobu fen cuigjog pozo. Ut giku ko oh cizifgih palabid saz gu pebemmer busefi girrortu bas jac zog. Bawcufti go ru mot cicipo ekaup zin bifaror wawnoh gemiece dudiwhe muvatipob niwha. Ofucokat cohponib rejagup subijca onu hed uro regko neladlu werev zun few tigatcec ama hozap ojeiso vuwa nafumel.",
+    "bio": "Semhajis ga hivbu mob vaj keveuhu cep tid fibugebi mu hoh gudowo nah. Ji kospek jashi wo sub tav com megwipjed mu dukezepup avuibbaw pewca gaw totat. Ri zutewfo em enoecirap kiwus kupsukhul lupdu oketifev jece pe tonaf feh tigev seved ruote."
+  },
+  "apiKey": "22a1944e7d47f97f2ff2bb8b3cd2e36671daaaf41027e8777dacf5793d172df5",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
