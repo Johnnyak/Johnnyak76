@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Pittman",
+  "age": 20,
+  "address": {
+    "street": "Ruwneh Court",
+    "city": "Javeocu",
+    "state": "NJ",
+    "zip": "12412"
+  },
+  "contact": {
+    "phone": "(268) 926-9798",
+    "servicePhone": "800879726"
+  },
+  "birthday": "1959-01-09T12:42:09.137Z",
+  "ip": "246.15.95.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Jo fivmipit kemoz uki oghovlo uvezismih al nuon vuwhe di lajozmol ba reminac. Ahokincog fimumud udegeg nilizde lusamoh ma dirjil sig suk obozofca feco jamemho zol. Ceadoda wembe gojvuc ibodogoz ciw bekved im alvoh wu ne zocow catnaw dof.",
+    "bio": "Gej oguno herivet zosikmi binlujli zazgih koniha ruij doh ris vi filub usaca ozhim me rimuk cimu lo. Afgukja je zoson ucolap moswaate tozile fumvedman pezkij fizaltiw pejbosa was kolehu cemzakjiz umte. Gako ajo pa hi se semuole polegu daghilril urepgan woh fovoike umzure kebvut okoektid nu vas lobnut igoip."
+  },
+  "apiKey": "d34348ac1f15c32d8d304c95054f1c4ce15e03136ef56d4e6590dc27dc998084",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
