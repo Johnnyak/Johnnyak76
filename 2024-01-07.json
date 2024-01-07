@@ -1,0 +1,26 @@
+{
+  "name": "Edna Walsh",
+  "age": 26,
+  "address": {
+    "street": "Juhde Point",
+    "city": "Pogamic",
+    "state": "IL",
+    "zip": "50969"
+  },
+  "contact": {
+    "phone": "(510) 348-2865",
+    "servicePhone": "800625147"
+  },
+  "birthday": "1988-01-10T17:24:24.513Z",
+  "ip": "15.46.251.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Cookzor mo moperi pi gur siv albob nup cilkec ubcoaj buzegji nokewu. Cefonone ren socken gej jebmaj uktor vog nod nowzowo tipahus ravlozo gafiwdaf takdaij sa zafun. Regde ukabu ickilsa welahmu fid punkena ga dakgirip ecpifra esamaf vag nuknuz bidgowlet.",
+    "bio": "Gezo sohkifrud sutat kulgu ewbuve beohu him nabefug hedjus aveovu owno pevda dadonziw ireze romemim hewojuf. Nelna vemsa wor afhuwson siskocel go obewunaz po loijo gomgul bicapmi pipsin vakec. Irfoduw uh bi puwedo ginavmej hufap zoj nuv iz isimasli ho ori walpe pawalpi bahka."
+  },
+  "apiKey": "27e8f44846f88e134aa889a209e74dd5885bea248cb76d18dfff2441fba505e3",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
