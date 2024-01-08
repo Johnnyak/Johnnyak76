@@ -1,0 +1,26 @@
+{
+  "name": "Glenn Lloyd",
+  "age": 50,
+  "address": {
+    "street": "Jiwsum Terrace",
+    "city": "Jobimis",
+    "state": "NJ",
+    "zip": "10639"
+  },
+  "contact": {
+    "phone": "(530) 993-3028",
+    "servicePhone": "800433254"
+  },
+  "birthday": "1987-12-06T09:22:34.243Z",
+  "ip": "211.35.197.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Gorfir wuoji do pebufa bolurim rabihe cuscen huphakif benjiz nil tuduca bawizbut. Lagju urutunil paflip maloavo mahron jocoz ledlohup atowekmej owaifo fosuol moiz zo funle gibavehen luweg juhloraki. Napojomo fivko ivmeglog ula na bir wa sor liuk onouvujo va sajsu goma tamkod dibot fafujpab.",
+    "bio": "Zuknokuw cefa peroca jig waj sow rogu si kek du geh ubuw. Dub cecni nicu pu ro kupkuvtu izsa mi non zo ugevegmos zuh naokwi melbuiju wofocaj lag sivta. Hehro fedoptep suzihek peju fojat cohel ilfir hi ra isto gudajud up jubwut silibere. Sugmurre tu uhofarvag nepwa po mour idcigcap pepor ke iwhijes rofokfo fa domaf."
+  },
+  "apiKey": "6e0f28a9d129784f5927184d472694de548861fbfa9c101e63965a4bac10ccb7",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
