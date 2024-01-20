@@ -1,0 +1,26 @@
+{
+  "name": "Lottie Singleton",
+  "age": 54,
+  "address": {
+    "street": "Asfod Ridge",
+    "city": "Letuav",
+    "state": "IL",
+    "zip": "66665"
+  },
+  "contact": {
+    "phone": "(513) 665-8296",
+    "servicePhone": "800934338"
+  },
+  "birthday": "1997-05-01T11:29:30.081Z",
+  "ip": "149.79.125.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Sik te efo caefu lobuzkam tibija lo ir erdevle tizukgo inota wolron wubadhik. Da lo vagdoh beugi tosimrec icisozi topjo ikipi cilos mauszu kiwo ugosepam todar va igi. Pinlera jojhu putaej tuno iju ducozaz wu vav abbokeg jule cetokjap tawofral to woram zihowcuc ganpe huf ge. Mow zadsi fenudeje mu piru jensigpu hoggiuza je kul sagfef evaso vu.",
+    "bio": "Ejo azaz rohigi hinare olzaz domkiku fonguwo lozur seig kepubu rurujjo ogi et. Go faov wulpuha bewvazet cuk daafoiv albafgub gabejo oczen lo rovita wucijwak uvuub pownaf gabmak. Coedten wozar tehsek has hazju oz abe mo hi lew obsun jovut fotop at."
+  },
+  "apiKey": "3bfd64df7a28e72c8955096b179e39e47012b81be78aa1360da3efc9b6db6cb8",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
