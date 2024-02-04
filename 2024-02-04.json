@@ -1,0 +1,26 @@
+{
+  "name": "Leonard Morgan",
+  "age": 44,
+  "address": {
+    "street": "Codov Junction",
+    "city": "Budriboz",
+    "state": "WI",
+    "zip": "54369"
+  },
+  "contact": {
+    "phone": "(462) 485-9686",
+    "servicePhone": "800974817"
+  },
+  "birthday": "1977-02-23T17:57:27.501Z",
+  "ip": "7.19.198.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Hos nimdal wid koez oflo li uvlok gi biw ge hesomruh hatag vubew. Fesera ih ofu ijiahonec ohutwe badmozino hu cuz tu esu vemwopko wedhum. Wi kozri zezla viwlumer kuzop ipa ifurehkim apotem pok bos okka vajumewo sooki nac nev he ani.",
+    "bio": "Debu werjeizi luvle jedwa laz elmir kewturka ji difop jenefaf nutbe uce. Zuoka oziji wa daifezo tugubilor ki gu papazaz fed pihit se om. Watbod di puvu gamholta ruvawe vozmi livla cuvazmak curenam uwuuhros dufek feb vu buwi velas fos."
+  },
+  "apiKey": "43bba25b69adfe9eff25f80804c7afd7dc9a1ceb724d02e6dce185c9780ea253",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
