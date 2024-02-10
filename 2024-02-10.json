@@ -1,0 +1,26 @@
+{
+  "name": "Tom Thomas",
+  "age": 30,
+  "address": {
+    "street": "Kuti Street",
+    "city": "Ojhezni",
+    "state": "WI",
+    "zip": "58929"
+  },
+  "contact": {
+    "phone": "(974) 588-5107",
+    "servicePhone": "800227648"
+  },
+  "birthday": "1965-07-25T15:03:33.714Z",
+  "ip": "1.92.3.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Siecu dobasoje natojo wuc hanci kurfabuz si ejuneci rolkigij badeeso ceg sav epekos. Aboluj orpu kigtu sucuzli lijuna manpizabo ogzu zeapaket pob dihwig feheszec owecozuc giweki. Mulficac fu wukus mufzo tig linfe ahi cisahove no daw diag odu nivo ibe ladzizi wazoz uka laagepus.",
+    "bio": "Bewim vozor judja ibsuno pu kioz cemif boco kuwam elkelhum da mamutne focovub salala uzjoara ahec. Mijvil tok tafje doeja wahwo ru mowilu areja boz ji adwovhu repeji lozohega. Idazu dackaub risuipo son deknigzo perga nebwiv eho vi noto omapeefi uroduno wedpo ocrauj."
+  },
+  "apiKey": "a8cf3d60ff4180f6679b158468df2fbd37251d5d39040a2435d5cc5f24a7c5dd",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
