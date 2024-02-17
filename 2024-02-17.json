@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Holland",
+  "age": 37,
+  "address": {
+    "street": "Vetvoj Highway",
+    "city": "Idwoel",
+    "state": "FL",
+    "zip": "30192"
+  },
+  "contact": {
+    "phone": "(521) 833-9202",
+    "servicePhone": "800997189"
+  },
+  "birthday": "2002-03-01T21:22:37.262Z",
+  "ip": "33.3.193.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Hilaz ivozo vocatjo dedgah bunhi ujdijofa kala komerli ma cur hiere tigahi tikutnuh taoz suavfe. Honeop liraet gapec puek pusde co faf com wojte amodi ocozeko caben ni. Zigogu zinowin fivi hujbe lo cetzaz zicnozjow la aruemo hoati fuheg fablurus dozhud do hitun hanvi. Bu rurmecol mucbo behato doruswe refope oce cetbuc popnel cijwepez law umitas.",
+    "bio": "Gifoova es hinrolos gid we su ej wiocu zome gu rap erjihbu weuc kuton dikotpoh bepuwsa za. Ozozok monaraj zerojo poz mozto fajujsah juvwigib owpo tov ren febbicba nah obacowkan negtagve we nerep. Pubul ikkiblar fefa iv ze menrujfu zazom fig nezju itisubtan pik hu tulekcak zisjeoma."
+  },
+  "apiKey": "1b895443d255df8c699758b6019d7dae9a28f7efe39fa0454b3b91d06bcf64a8",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
