@@ -1,0 +1,26 @@
+{
+  "name": "Marian Alvarez",
+  "age": 32,
+  "address": {
+    "street": "Mietu Boulevard",
+    "city": "Varonjeb",
+    "state": "NH",
+    "zip": "07923"
+  },
+  "contact": {
+    "phone": "(265) 644-4876",
+    "servicePhone": "800248727"
+  },
+  "birthday": "1966-02-09T14:10:42.790Z",
+  "ip": "223.243.7.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Aficoncu bu okosomig ju damta negmeg muk fivbe sofrejriz vashewod muhime tatuc ij dikuk. Fa lopunelu ri zatmesci uce diz le pufsuk joni wunwad caberkaw im eteve hih hepjiton. Hembuhuv vogeza rasirud venje guuvtu hohdimor riuje lado muene ceg dowab vefla paftufev nofosaf fiplages zuas up.",
+    "bio": "Pilow ban raloram ohi worij befeka usa ludwup hiradu fuheh lis dipzalalo gigum vim mawhu caz vuh wegneli. Tu sapo geet ihaful wagti gidi fikkinuni dukaz widacak puh edenoewi rifeeh zemloke. Seze agnej haju kauj ev uvbak sahfub asaevfe dag likzape ahuzeevo siuru cup rimojideh."
+  },
+  "apiKey": "ce7477e7cb96f57edf18ed93b08013288dfb58d10d3a87236c29979b3c4695a6",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
