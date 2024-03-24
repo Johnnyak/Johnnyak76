@@ -1,0 +1,26 @@
+{
+  "name": "Effie Beck",
+  "age": 34,
+  "address": {
+    "street": "Surkoc Drive",
+    "city": "Mejkeru",
+    "state": "MI",
+    "zip": "02387"
+  },
+  "contact": {
+    "phone": "(783) 764-1951",
+    "servicePhone": "800321611"
+  },
+  "birthday": "1964-08-11T14:55:28.774Z",
+  "ip": "172.151.48.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Pufid relduka pupwale otmu fi zaziwsin leuz buiw fivav jugun nuw jek ro jahninmo lovud tevuweh tuvat ren. Idilfi ut erukju nonkaiba sulsekel mis neih demo ru hifa nam mul cav. Homzecup zaswefe jolo ec inuzi ni vowvo vag lomeziez jof bu luhedav ijurefad rukja pi ligotme fo olzam.",
+    "bio": "Eb zebpafocu majvilep ehzub wevuce foec ocfifuh kanbikjo sisid bi bezu vedewovu. Gelufa za darmul ili apohah jabeho jo dawo tatubaf cul kamilfe arzujal ci jip fiuvove. Siv rewvego hehemu sa narducuc mafetike cu helcejzok ki zij kemru udfujmaz. Ivu tu junonej pa tolej dob haswu iv jo jam nopagehi ukugtes fiv orsoma kozkotjeg goptudowa din ke."
+  },
+  "apiKey": "5745c0069a5ada9393609e684804d3d4e1f9c302cde24a0022e8429fa6346f2a",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
