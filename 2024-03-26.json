@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Todd",
+  "age": 23,
+  "address": {
+    "street": "Vouvi Junction",
+    "city": "Wegzaswec",
+    "state": "UT",
+    "zip": "07321"
+  },
+  "contact": {
+    "phone": "(561) 728-3337",
+    "servicePhone": "800852214"
+  },
+  "birthday": "1973-05-11T20:24:03.730Z",
+  "ip": "198.197.38.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Divuma zadeb fuvzok zaiw anewin taf pifsaf wur mit lupgozoj fo uki. Rotiz ar vo jorotse ok wa godsagav rovlu ga jo pakha doz wan ca wet lu upber. Goahezez re rajvad suho muihi voz zeko zogkecizu sidtagwa pale dew zufipu. Beb awgi rojwu vo jo mivursuv citfarof ridme gofik tocal picimtem mog. Vujo kekhegiri rawzilho ib hub esitege iv nuhurom niwodjod uf dafep saw riubuse apoaffic.",
+    "bio": "Pakluzdot fahovmod wiakave gu eku ve rojbifo cefev restazlul hagabfe ondinco ohusu taocla dakmula muoldos sa fetkik bofnupzid. Viaz os umweoku ka heuw loruwiko onhanke sopnog fovegu re mimiica pe aje sehussop sahaba. Gimifgij oc sipisen wacfa pan jako pegdowac kaahvo uzasu epurliw pekjapuj zulupsi. Manaz enza nutaw olsapmic tup uf ci ca juwbidpa evfodre pa ruhacum oleci nutauva. Lun uve jafoz ko isen onikos das afudivgi ijenitec kiebpas pe oj amnuf zefocib sococowe wagcen kel zahema."
+  },
+  "apiKey": "81764d71e1ce255f40dcf80bded48d01962028ffe64ed87952a071e1fb859965",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
