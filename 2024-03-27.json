@@ -1,0 +1,26 @@
+{
+  "name": "Emilie Hansen",
+  "age": 25,
+  "address": {
+    "street": "Rodjo Parkway",
+    "city": "Neftohaba",
+    "state": "MI",
+    "zip": "32629"
+  },
+  "contact": {
+    "phone": "(470) 213-3247",
+    "servicePhone": "800867747"
+  },
+  "birthday": "1961-05-20T05:15:51.843Z",
+  "ip": "56.221.129.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Zeptef tes je ho feg dirdahzit ecfib kemo kubenovu om godom tenoli. Ruriilo fe zug nocgecgat kiofiwur coba odlaz nibof cagod bajbi tade hiordih fefi oh nuw. Lohihap pupupubo vaf ce zamo je ciz uwede ucdokaci wogdofpif corfeczu amo.",
+    "bio": "Diwa cejso gitbirer enkowtu tofvo tejjooc elu pikekta pif co becvauva zijjim puefosi nedbigol osuodo zigaso. Edo lefuawe owo miilvec femaze zowwomjik lov buvihgi wug rujom wi muj koluce lukmezup ej idozidi foppug. Ojoh dac ludgezu ge ga disolu pa siijeudo rakaju pufjohuh bozakot portu bojuove zufin bubsabu. Hupecipe mijineeh figwejo mutob re kivipvug ge nan do aha ilamut selhuko."
+  },
+  "apiKey": "1c2246d05045fa25ee84a80be2b83460fb4cf44558caa573b0718e100224f79b",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
