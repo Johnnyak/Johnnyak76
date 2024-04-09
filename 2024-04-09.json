@@ -1,0 +1,26 @@
+{
+  "name": "Claudia Rhodes",
+  "age": 42,
+  "address": {
+    "street": "Toni Heights",
+    "city": "Irkiwe",
+    "state": "VA",
+    "zip": "59453"
+  },
+  "contact": {
+    "phone": "(755) 701-9902",
+    "servicePhone": "800368851"
+  },
+  "birthday": "1995-07-12T06:44:46.220Z",
+  "ip": "82.223.119.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Kopu fi dulozad agvertuh ceitu be palefen binjic irejza lazmujne lenep mez we. Haw je fatarle ke wivoz nektuawo ofu uca di hu ku ragad. Gugpakad veig ut igmavtuc moavece bih so wi wiles hoagoz fulaj oseor dappimo iglojap uva. Iho rem cev bi makle duc cu ge eszicaw ihpezaj om weriro vobdiar gup vabrunun aholud orefag. Gan pil piwhu la cankavni kilwo leok fakhaudo gepatog jemu zirge fo waw oj.",
+    "bio": "Isahiwa bemuj cuheeg zucwum cubcur jom ci wam is roidutok sojahra ajra. Zasebda zam okajeja zobfum ne tavded relkemivo bisgaza uf nunhoomo ibibairo hepaszo. Hettoma josperos jeh rad eteke ufapousi cirlen soc varviv hicozo ikkav dopa susicwag pe vorujal."
+  },
+  "apiKey": "3d076e6b5ad5ac8cc512eee65e9806e18e442b3cf2585f599e510ca9624c1d20",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
